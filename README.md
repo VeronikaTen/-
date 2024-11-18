@@ -18,8 +18,9 @@
 ### :woman_technologist: Обо мне :
 
 - :brain: факт обо мне
- 
+
 - :women_pilot: факт обо мне
-  
+
 - :biking_women: факт обо мне
+
   
