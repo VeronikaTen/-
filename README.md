@@ -21,6 +21,6 @@
 
 - :women_pilot: факт обо мне
 
-- :biking_women: факт обо мне
+- :biking_woman: факт обо мне
 
   
