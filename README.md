@@ -38,3 +38,12 @@
 <div>
 <img src="https://github-trophy.vercel.app/?username=VeronikaTen" alt=""/>
 </div>
+
+### :keyboard: Наиболее используемые языки :
+
+<div>
+ <img src="https://github-readme-status.vercel.app/api/top-langs/?username=VeronikaTen" alt=""/>
+</div>
+
+
+
