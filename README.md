@@ -19,7 +19,7 @@
 
 - :brain: факт обо мне
 
-- :women_pilot: факт обо мне
+- :woman_pilot: факт обо мне
 
 - :biking_woman: факт обо мне
 
