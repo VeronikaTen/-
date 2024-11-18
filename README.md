@@ -25,5 +25,11 @@
 
 ### :hammer_and_wrench: Языки и инструменты :
 
+<div>
+<img scr="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/github/github-original-wordmark.svg" width="40" height="40"/>
+<img scr="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/githubcodespaces/githubcodespaces-original.svg" width="40" height="40"/>
+<img scr="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/githubactions/githubactions-original.svg" width="40" height="40"/>
+<img scr="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/gitlab/gitlab-original-wordmark.svg" width="40" height="40"/>
+<img scr="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/gitlab/gitlab-plain-wordmark.svg" width="40" height="40"/>
+</div>
 
-  
