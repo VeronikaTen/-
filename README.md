@@ -15,4 +15,4 @@
 <h1> Профиль на GITHUB </h1>
 </div>
 
-### :women_technologist: Обо мне:
+### :woman_technologist: Обо мне :
