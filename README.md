@@ -48,7 +48,7 @@
 ### :bar_chart: Статистика активности :
 
 <div>
-<img src="http://githab-readme-activity-graph.vercel.app/graph?username=VeronikaTen&theme=dracula" alt=""/>
+<img src="https://githab-readme-activity-graph.vercel.app/graph?username=VeronikaTen&theme=dracula" alt=""/>
 </div>
 
 
