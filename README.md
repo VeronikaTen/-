@@ -35,3 +35,6 @@
 
 ### :trophy: Достижения : 
 
+<div>
+<img src="https://github-trophy.vercel.app/?username=VeronikaTen" alt=""/>
+</div>
