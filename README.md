@@ -45,4 +45,11 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeronikaTen" alt=""/>
 </div>
 
+### :bar_chart: Статистика активности :
+
+<div>
+<img src="http://githab-readme-activity-graph.versel.app/graph?username=rompersStomper&theme=dracula" alt=""/">
+</div>
+
+
 
